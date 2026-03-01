@@ -46,3 +46,5 @@ SELECT
  FROM Sales
  GROUP BY ROLLUP(Region,Product)
  ORDER BY Region,Product;
+ 
+
