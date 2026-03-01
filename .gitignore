@@ -1,0 +1,7 @@
+# Ignore VS / VS Code config folder
+.vs/
+
+# Ignore other user/editor specific files
+*.user
+*.suo
+*.sln.docstates
